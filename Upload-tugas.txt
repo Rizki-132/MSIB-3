@@ -1,0 +1,7 @@
+Upload tugas 
+HTML
+CSS
+PHP
+Javascript
+Database MySQL
+Laravel
